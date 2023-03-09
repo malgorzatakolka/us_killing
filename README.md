@@ -7,26 +7,26 @@ The objectives of the notebook are to determine the most impactful features on p
 ## Brutality Against Civilians
 Every year, almost 3.5 people per million are killed by police. This is concerning mostly for Democrats, who want to keep officers accountable for their actions, while Republicans believe that the brutality is justified and rarely motivated by bias. The rate of police killings is slightly increasing.
 
-![images/number_of_killed_by_year.jpg](images/number_of_killed_by_year.jpg)
+![images/number_of_killed_by_year.jpg](number_of_killed_by_year.jpg)
 
 ## The Race Issue
 The killings are racially disproportionate. Although white people are mostly affected, black people are killed more than twice as often.
 
-![images/killings_by_race.jpg](images/killings_by_race.jpg)
+![images/killings_by_race.jpg](killings_by_race.jpg)
 
 ## Young Men Are at the Highest Risk of Being Killed by Police
 
-![images/killings_by_age_and_gender.jpg](images/killings_by_age_and_gender.jpg)
+![images/killings_by_age_and_gender.jpg](killings_by_age_and_gender.jpg)
 
 ## Correlation Between Political Views and Number of Killings
 States with more conservative views have more killings per year per million than those with more liberal views. This correlation is visible.
 
 ![images/killed_per_million_per_state_each_year.png](images/killed_per_million_per_state_each_year.png)
-![images/elections_2020.png](images/elections_2020.png)
+![images/elections_2020.png](elections_2020.png)
 
 ## Which Features Determine the Number of Killings the Most in Which State
 
-![images/impact_of_features.jpg](images/impact_of_features.jpg)
+![images/impact_of_features.jpg](impact_of_features.jpg)
 
 The most crucial features in the number of killings vary per state. For California, societal minorities and objects imitating weapons are the most crucial features. In Texas, Florida, and Montana, many killings take place with the threat of guns, which are allowed in private firearm sales. Other features slightly affect police killings in some states.
 
